@@ -16,8 +16,8 @@
 ||トッププレート|[図面データ]()|[ALLPCB](https://www.allpcb.com), [JLCPCB](https://jlcpcb.com), [ELECROW](https://www.elecrow.com)等|
 ||15mmスペーサー|9|[遊舎工房](https://shop.yushakobo.jp/products/a0800c2?_pos=1&_sid=19dbc8a58&_ss=r&variant=37665435484321)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g2404/)|
 ||8mmM2ネジ|18|[遊舎工房](https://shop.yushakobo.jp/products/a0800n2?_pos=2&_sid=6d67644cd&_ss=r&variant=37665433026721)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g102178/)等|
-||PORONシート|8|[モノタロウ](https://www.monotaro.com/p/1871/7195/)|
-||予備のPORONシート|1|同梱品の切り口に納得がいかない場合は5mm幅に切ってお使いください|
+||ポロンスポンジシート|8|[モノタロウ](https://www.monotaro.com/p/1871/7195/)|
+||予備|1|5mm幅に切ってお使いください|
 ||ゴム足|6|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ur-01-6?variant=37665431060641)、100円ショップ、Amazon等|
 
 ### 必要なもの
