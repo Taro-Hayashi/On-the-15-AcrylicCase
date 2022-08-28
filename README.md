@@ -12,8 +12,8 @@
 ![](img/IMG_4355C.jpg)  
 ||部品名|数|入手先|
 |-|-|-|-|
-||アクリルプレート|[図面データ]()|[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[工房Emerge+](emergeplus.jp)等|
-||トッププレート|[図面データ]()|各種PCB製造業者|
+||アクリルプレート|[図面データ](platesdata.md)|[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[工房Emerge+](emergeplus.jp)等|
+||トッププレート|[図面データ](platesdata.md)|各種PCB製造業者|
 ||4x15mmスペーサー|9|[遊舎工房](https://shop.yushakobo.jp/products/a0800c2?_pos=1&_sid=19dbc8a58&_ss=r&variant=37665435484321)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g2404/)|
 ||8mmM2ネジ|18|[遊舎工房](https://shop.yushakobo.jp/products/a0800n2?_pos=2&_sid=6d67644cd&_ss=r&variant=37665433026721)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g102178/)等|
 ||ポロンスポンジシート|8|[モノタロウ](https://www.monotaro.com/p/1871/7195/)|
