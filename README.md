@@ -5,7 +5,7 @@
 - [そのほか](#そのほか)
 
 ## ご注意
-- 組み立てにはOn the 15が必要です。
+- 組み立てにはOn the 15（[遊舎工房](https://shop.yushakobo.jp/products/4994)、[BOOTH](https://tarohayashi.booth.pm/items/3672079)）のメインボードが必要です。
 - 自分で発注するとお好きな色のアクリル、ネジで制作可能です。
 
 ## キット内容
