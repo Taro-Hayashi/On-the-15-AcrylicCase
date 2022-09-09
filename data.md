@@ -3,7 +3,7 @@
 ## アクリルプレート
 ### 発注先
 積層構造に向いた押出材を選べる、遊舎工房さんやEmerge+さんに発注することをお勧めします。  
-- [遊舎工房](https://shop.yushakobo.jp/products/lasercut?variant=43591413629159)
+- [遊舎工房](https://shop.yushakobo.jp/products/lasercut)
 - [Emerge+](https://www.emergeplus.jp)  
 
 ### 発注データ  
@@ -17,8 +17,8 @@ kicad用ファイル、Inkscape用ファイルが入っているので各社A4�
 
 ## トッププレート
 kicad用のファイルとALLPCBさん向けのガーバーファイルを公開しています。
-- [kicad設計ファイル]()
-- [ALLPCBさん向けガーバーファイル]()
+- [kicad設計ファイル](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/PCB_topplate.kicad_pcb)
+- [ALLPCBさん向けガーバーファイル](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/PCB_ALLPCB_95x291.zip)
 - [ALLPCB](https://www.allpcb.com)
 
 海外の会社とのやりとりはすべて英語です。納期や品質について過剰な要求をするのは日本人に対してのサービスが悪くなる、もしくは終了する原因になるのでやめてください。
