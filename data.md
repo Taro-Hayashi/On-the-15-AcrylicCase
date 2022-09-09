@@ -7,7 +7,7 @@
 - [Emerge+](https://www.emergeplus.jp)  
 
 ### 発注データ  
-厚みは3mmです。遊舎工房さん向けはA3+450x300、Emerge+さん向けは300x600で発注してください。
+厚みは3mmです。遊舎工房さん向けはA3+450x300mm、Emerge+さん向けは300x600mmで発注してください。
 - [遊舎工房さん向け](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
 - [Emerge+さん向け](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
 - [階層別](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip)
