@@ -8,9 +8,9 @@
 
 ### 発注データ  
 厚みは3mmです。遊舎工房さん向けはA4と450x300mmの2枚、Emerge+さん向けは300x600mmで発注してください。
-- [遊舎工房さん向け](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
-- [Emerge+さん向け](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
-- [階層別](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip)
+- [遊舎工房さん向け](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/onthe15case_acrylic_yushakobo.zip)
+- [Emerge+さん向け](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/onthe15case_acrylic_emergeplus.zip)
+- [階層別](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/onthe15case_acrylic_vanilla.zip)
 
 kicad用ファイル、Inkscape用ファイルが入っているので各社A4サイズのテンプレートにコピペし、指定通りにレイヤーや線の色を修正して見積もりにかけてください。  
 階層別のデータはパーツを上手く配置すれば他のアクリルパーツと一緒に発注したり、特定の層だけ色を変えたりすることができます。  
