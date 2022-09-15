@@ -21,7 +21,6 @@
 
 ### 必要なもの
 ![](img/IMG_9109.jpeg)  
-詳細は[On the 15のビルドガイド](https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md)をご覧ください
 |部品名|||
 |-|-|-|
 |はんだ付け済みメインボード|キースイッチ|キーキャップ|
