@@ -20,9 +20,6 @@ kicad用のファイルとALLPCBさん向けのガーバーファイルを公開
 - [kicad設計ファイル](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/PCB_topplate.kicad_pcb)
 - [ALLPCBさん向けガーバーファイル](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/releases/download/acrylic/PCB_ALLPCB_95x291.zip)
 - [ALLPCB](https://www.allpcb.com)
-
-海外の会社とのやりとりはすべて英語です。納期や品質について過剰な要求をするのは日本人に対してのサービスが悪くなる、もしくは終了する原因になるのでやめてください。
-
   
 問題があった時はご自身で対処してください。  
 プレートのデータ及び注文品はご自由に複製、改変、頒布していただけます。
