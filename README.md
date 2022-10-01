@@ -4,7 +4,7 @@
 - [組み立て](#組み立て)
 
 ## ご注意
-- 組み立てにはOn the 15（[遊舎工房](https://shop.yushakobo.jp/products/4994)、[BOOTH](https://tarohayashi.booth.pm/items/3672079)）のメインボードが必要です。遊舎工房フリマではメインボード単品を販売予定です。
+- 組み立てにはOn the 15（[遊舎工房](https://shop.yushakobo.jp/products/4994)、[BOOTH](https://tarohayashi.booth.pm/items/3672079)）のメインボードが必要です。
 - 自分で発注するとお好きな色のアクリル、ネジで制作可能です。
 
 ## キット内容
@@ -68,6 +68,5 @@
 ![](img/IMG_9145.jpeg) 
 
 ## 販売ページ
-アクリルプレートを含めたキットは遊舎工房フリマで販売予定です。
 - [BOOTH](https://tarohayashi.booth.pm/items/4144806)  
 
